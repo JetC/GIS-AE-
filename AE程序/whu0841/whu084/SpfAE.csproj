@@ -8,8 +8,8 @@
     <ProjectGuid>{D7D4F70B-7937-465F-9F2C-2ABC0769820C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>whu084</RootNamespace>
-    <AssemblyName>whu084</AssemblyName>
+    <RootNamespace>SpfAE</RootNamespace>
+    <AssemblyName>SpfAE</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -163,6 +163,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="query.resx">
       <DependentUpon>query.cs</DependentUpon>
