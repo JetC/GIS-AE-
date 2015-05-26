@@ -77,6 +77,7 @@
     <Reference Include="System" />
     <Reference Include="System.AddIn" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data" />
@@ -115,6 +116,7 @@
     <Compile Include="InfrQuery.Designer.cs">
       <DependentUpon>InfrQuery.cs</DependentUpon>
     </Compile>
+    <Compile Include="JavaScriptSerializer.cs" />
     <Compile Include="Network.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -135,6 +137,7 @@
     <Compile Include="query.Designer.cs">
       <DependentUpon>query.cs</DependentUpon>
     </Compile>
+    <Compile Include="Script.cs" />
     <EmbeddedResource Include="AttributeQueryForm.resx">
       <DependentUpon>AttributeQueryForm.cs</DependentUpon>
     </EmbeddedResource>

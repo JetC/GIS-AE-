@@ -504,8 +504,8 @@ activeView.ScreenDisplay.DisplayTransformation.VisibleBounds.Width;
 
         private void 天气查询ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            InfrQuery infr = new InfrQuery(this.axMapControl1);
-            infr.Show();
+            MainForm infr = new MainForm(this.axMapControl1);
+            infr.Show(); 
         }
 
         
