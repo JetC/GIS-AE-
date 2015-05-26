@@ -1,0 +1,173 @@
+G:\GIS软件工程\whu084\whu084\bin\Debug\whu084.exe
+G:\GIS软件工程\whu084\whu084\bin\Debug\whu084.pdb
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.Form1.resources
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.exe
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.pdb
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.exe
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.pdb
+H:\GIS软件工程\whu084\whu084\bin\Debug\whu084.exe
+H:\GIS软件工程\whu084\whu084\bin\Debug\whu084.pdb
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.Form1.resources
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+G:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+H:\GIS软件工程\whu084\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\whu084.exe
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\whu084.pdb
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\whu084.Form1.resources
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\bin\Debug\whu084.exe
+C:\Documents and Settings\Administrator\桌面\whu084\whu084\bin\Debug\whu084.pdb
+G:\whu084 1\whu084\obj\x86\Debug\whu084.exe
+G:\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+G:\whu084 1\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\whu084 1\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+G:\whu084 1\whu084\obj\x86\Debug\whu084.Form1.resources
+G:\whu084 1\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+G:\whu084 1\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+G:\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\whu084 1\whu084\bin\Debug\whu084.exe
+G:\whu084 1\whu084\bin\Debug\whu084.pdb
+G:\whu084 1\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+H:\whu084 1\whu084\obj\x86\Debug\whu084.exe
+H:\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+H:\whu084 1\whu084\bin\Debug\whu084.exe
+H:\whu084 1\whu084\bin\Debug\whu084.pdb
+H:\whu084 1\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\whu084 1\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+H:\whu084 1\whu084\obj\x86\Debug\whu084.Form1.resources
+H:\whu084 1\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+H:\whu084 1\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+H:\whu084 1\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+H:\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.exe
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.Form1.resources
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\bin\Debug\whu084.exe
+C:\Documents and Settings\Administrator\桌面\whu084 1\whu084\bin\Debug\whu084.pdb
+I:\whu084 1\whu084\obj\x86\Debug\whu084.exe
+I:\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+I:\whu084 1\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\whu084 1\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+I:\whu084 1\whu084\obj\x86\Debug\whu084.Form1.resources
+I:\whu084 1\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+I:\whu084 1\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+I:\whu084 1\whu084\obj\x86\Debug\whu084.MainForm.resources
+I:\whu084 1\whu084\obj\x86\Debug\whu084.PicView.resources
+I:\whu084 1\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+I:\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\whu084 1\whu084\bin\Debug\whu084.exe
+I:\whu084 1\whu084\bin\Debug\whu084.pdb
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.exe
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+E:\大三下\whu084 1\whu084\bin\Debug\whu084.exe
+E:\大三下\whu084 1\whu084\bin\Debug\whu084.pdb
+E:\大三下\whu084 1\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.Form1.resources
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.MainForm.resources
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.PicView.resources
+E:\大三下\whu084 1\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+E:\大三下\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\大三下\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\GIS实习\whu084 1\whu084\obj\x86\Debug\whu084.exe
+D:\GIS实习\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+G:\GIS工程\whu084 1\whu084\obj\x86\Debug\whu084.exe
+G:\GIS工程\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+K:\本科\GIS工程\whu084 1\whu084\obj\x86\Debug\whu084.exe
+K:\本科\GIS工程\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+C:\Users\xiaoxiong\Desktop\GIS工程\whu084 1\whu084\obj\x86\Debug\whu084.exe
+C:\Users\xiaoxiong\Desktop\GIS工程\whu084 1\whu084\obj\x86\Debug\whu084.pdb
+C:\Users\xiaoxiong\Desktop\GIS工程\whu084 1\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xiaoxiong\Desktop\GIS工程\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\xiaoxiong\Desktop\GIS工程\whu084 1\whu084\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\QQ接受\GIS工程\whu0841\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\QQ接受\GIS工程\whu0841\whu084\bin\Debug\whu084.exe.config
+I:\whu0841\whu084\bin\Debug\whu084.exe.config
+I:\whu0841\whu084\bin\Debug\App_Data\实验.mdb
+I:\whu0841\whu084\bin\Debug\whu084.exe
+I:\whu0841\whu084\bin\Debug\whu084.pdb
+I:\whu0841\whu084\obj\x86\Debug\whu084.csprojResolveAssemblyReference.cache
+I:\whu0841\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.Form1.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.MainForm.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.PicView.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.query.resources
+I:\whu0841\whu084\obj\x86\Debug\whu084.csproj.GenerateResource.Cache
+I:\whu0841\whu084\obj\x86\Debug\whu084.exe
+I:\whu0841\whu084\obj\x86\Debug\whu084.pdb
+J:\whu0841\whu084\bin\Debug\whu084.exe.config
+J:\whu0841\whu084\obj\x86\Debug\whu084.exe
+J:\whu0841\whu084\obj\x86\Debug\whu084.pdb
+J:\whu0841\whu084\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\whu0841\whu084\obj\x86\Debug\ResGen.read.1.tlog
+J:\whu0841\whu084\obj\x86\Debug\ResGen.write.1.tlog
+J:\GIS工程\whu0841\whu084\bin\Debug\whu084.exe.config
+J:\GIS工程\whu0841\whu084\obj\x86\Debug\whu084.exe
+J:\GIS工程\whu0841\whu084\obj\x86\Debug\whu084.pdb
+I:\GIS工程\whu0841\whu084\bin\Debug\whu084.exe.config
+I:\GIS工程\whu0841\whu084\obj\x86\Debug\whu084.exe
+I:\GIS工程\whu0841\whu084\obj\x86\Debug\whu084.pdb
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\bin\Debug\whu084.exe.config
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.exe
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.pdb
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\bin\Debug\App_Data\实验.mdb
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\bin\Debug\whu084.exe
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\bin\Debug\whu084.pdb
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.csprojResolveAssemblyReference.cache
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.Form1.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.MainForm.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.PicView.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.query.resources
+C:\Users\arthur\Desktop\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.csproj.GenerateResource.Cache
+E:\资料包\大三下\GIS工程\拷贝AE\whu0841\whu084\bin\Debug\whu084.exe.config
+E:\资料包\大三下\GIS工程\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.exe
+E:\资料包\大三下\GIS工程\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.pdb
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\bin\Debug\whu084.exe.config
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.exe
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.pdb
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\bin\Debug\App_Data\实验.mdb
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\bin\Debug\whu084.exe
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\bin\Debug\whu084.pdb
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.AttributeQueryForm.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.Form1.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.FrmAttribute.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.InfrQuery.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.MainForm.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.PicView.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.Properties.Resources.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.query.resources
+\\psf\Home\Downloads\拷贝AE\拷贝AE\whu0841\whu084\obj\x86\Debug\whu084.csproj.GenerateResource.Cache
