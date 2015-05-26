@@ -502,6 +502,12 @@ activeView.ScreenDisplay.DisplayTransformation.VisibleBounds.Width;
             frm.Show();
         }
 
+        private void 天气查询ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            InfrQuery infr = new InfrQuery(this.axMapControl1);
+            infr.Show();
+        }
+
         
 
         

@@ -44,6 +44,7 @@
             this.menuNetwork = new System.Windows.Forms.ToolStripMenuItem();
             this.PicViewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.信息查询2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.天气查询ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.axMapControl2 = new ESRI.ArcGIS.Controls.AxMapControl();
             this.context = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.MenuOpenAttr = new System.Windows.Forms.ToolStripMenuItem();
@@ -52,7 +53,6 @@
             this.txtName = new System.Windows.Forms.TextBox();
             this.btnPointQuery = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.天气查询ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.axLicenseControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.axToolbarControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.axTOCControl1)).BeginInit();
@@ -181,6 +181,13 @@
             this.信息查询2ToolStripMenuItem.Text = "信息查询2.0";
             this.信息查询2ToolStripMenuItem.Click += new System.EventHandler(this.信息查询2ToolStripMenuItem_Click);
             // 
+            // 天气查询ToolStripMenuItem
+            // 
+            this.天气查询ToolStripMenuItem.Name = "天气查询ToolStripMenuItem";
+            this.天气查询ToolStripMenuItem.Size = new System.Drawing.Size(68, 21);
+            this.天气查询ToolStripMenuItem.Text = "天气查询";
+            this.天气查询ToolStripMenuItem.Click += new System.EventHandler(this.天气查询ToolStripMenuItem_Click);
+            // 
             // axMapControl2
             // 
             this.axMapControl2.Location = new System.Drawing.Point(12, 281);
@@ -248,12 +255,6 @@
             this.label2.TabIndex = 10;
             this.label2.Text = "请输入宿舍名";
             // 
-            // 天气查询ToolStripMenuItem
-            // 
-            this.天气查询ToolStripMenuItem.Name = "天气查询ToolStripMenuItem";
-            this.天气查询ToolStripMenuItem.Size = new System.Drawing.Size(68, 21);
-            this.天气查询ToolStripMenuItem.Text = "天气查询";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -271,7 +272,7 @@
             this.Controls.Add(this.axToolbarControl1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "信息学部地理信息查询系统";
+            this.Text = "武大赏樱辅助系统";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.axLicenseControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.axToolbarControl1)).EndInit();
