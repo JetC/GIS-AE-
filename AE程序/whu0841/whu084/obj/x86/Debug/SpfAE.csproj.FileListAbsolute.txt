@@ -13,3 +13,4 @@
 \\psf\Home\Desktop\SourceTree\GIS工程AE程序\AE程序\whu0841\whu084\obj\x86\Debug\SpfAE.csproj.GenerateResource.Cache
 \\psf\Home\Desktop\SourceTree\GIS工程AE程序\AE程序\whu0841\whu084\obj\x86\Debug\SpfAE.exe
 \\psf\Home\Desktop\SourceTree\GIS工程AE程序\AE程序\whu0841\whu084\obj\x86\Debug\SpfAE.pdb
+\\psf\Home\Desktop\SourceTree\GIS工程AE程序\AE程序\whu0841\whu084\obj\x86\Debug\SpfAE.csprojResolveAssemblyReference.cache
