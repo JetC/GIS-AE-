@@ -60,10 +60,17 @@ namespace whu084
             {
                 pictureBox1.Load(arrPath[++index].ToString());
             }
-            else
+            else if (index != 0)
             {
                 index = 0;
-                pictureBox1.Load(arrPath[index].ToString());
+                if(arrPath.Count != 0){
+                   pictureBox1.Load(arrPath[index].ToString());
+                }
+
+            }
+            else
+            {
+
             }
 
         }

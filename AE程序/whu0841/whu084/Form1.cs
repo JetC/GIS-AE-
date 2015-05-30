@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,9 @@ using ESRI.ArcGIS.Geometry;
 using ESRI.ArcGIS.Display;
 using ESRI.ArcGIS.Controls;
 using ESRI.ArcGIS.Geodatabase;
-
+using System.Net;
+using System.IO;
+using System.Text.RegularExpressions;
 
 
 
@@ -486,8 +489,10 @@ activeView.ScreenDisplay.DisplayTransformation.VisibleBounds.Width;
 
         private void menuNetwork_Click(object sender, EventArgs e)
         {
-            MainForm infr = new MainForm(this.axMapControl1);
-            infr.Show(); 
+
+            //if (this.axMapControl1.LayerCount <= 0) return;
+            //PathQueryForm pathquery = new PathQueryForm(this.axMapControl1);
+            //pathquery.Show();
         }
 
         private void PicViewToolStripMenuItem_Click(object sender, EventArgs e)
@@ -500,6 +505,34 @@ activeView.ScreenDisplay.DisplayTransformation.VisibleBounds.Width;
         {
             query frm = new query(this.axMapControl1);
             frm.Show();
+        }
+
+        private void aPP下载ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process ie = new System.Diagnostics.Process();
+            ie.StartInfo.FileName = "iexplore.exe";
+            ie.StartInfo.Arguments = @" http://nic.whu.edu.cn/info/9382/58341.htm";
+            ie.Start();
+        }
+
+        private void 微博分享ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process ie = new System.Diagnostics.Process();
+            ie.StartInfo.FileName = "iexplore.exe";
+            ie.StartInfo.Arguments = @" http://d.weibo.com/";
+            ie.Start();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            MainForm infr = new MainForm(this.axMapControl1);
+            infr.Show();
+        }
+
+        private void 风景介绍ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //Form3 sceneryshow = new Form3();
+            //sceneryshow.Show(); 
         }
 
         private void 天气查询ToolStripMenuItem_Click(object sender, EventArgs e)

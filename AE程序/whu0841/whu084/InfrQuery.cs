@@ -40,7 +40,7 @@ namespace whu084
         {
             listView1.Items.Clear();
             //string mm = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + System.Windows.Forms.Application.StartupPath + @"\\实验.mdb;Password=;";
-            OleDbConnection conn = new OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=I:\\whu0841\\whu084\\bin\\Debug\\App_Data\\实验.mdb");
+            OleDbConnection conn = new OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\data\\实验.mdb;");
             //OleDbConnection conn = new OleDbConnection(mm);
             //MessageBox.Show("ok");
             conn.Open();
@@ -63,6 +63,11 @@ namespace whu084
                 li.SubItems.Add(dt.Rows[i][3].ToString());
                 listView1.Items.Add(li);           
             } 
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         

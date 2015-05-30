@@ -40,19 +40,15 @@
             this.ManuAddSHP = new System.Windows.Forms.ToolStripMenuItem();
             this.MenuAddLyr = new System.Windows.Forms.ToolStripMenuItem();
             this.menuAttributeQuery = new System.Windows.Forms.ToolStripMenuItem();
-            this.infrQueryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuNetwork = new System.Windows.Forms.ToolStripMenuItem();
             this.PicViewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.信息查询2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.aPP下载ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.微博分享ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.天气查询ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.axMapControl2 = new ESRI.ArcGIS.Controls.AxMapControl();
             this.context = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.MenuOpenAttr = new System.Windows.Forms.ToolStripMenuItem();
             this.删除ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.label1 = new System.Windows.Forms.Label();
             this.txtName = new System.Windows.Forms.TextBox();
-            this.btnPointQuery = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.axLicenseControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.axToolbarControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.axTOCControl1)).BeginInit();
@@ -93,7 +89,7 @@
             this.axMapControl1.Location = new System.Drawing.Point(205, 75);
             this.axMapControl1.Name = "axMapControl1";
             this.axMapControl1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axMapControl1.OcxState")));
-            this.axMapControl1.Size = new System.Drawing.Size(599, 365);
+            this.axMapControl1.Size = new System.Drawing.Size(599, 427);
             this.axMapControl1.TabIndex = 3;
             this.axMapControl1.OnMouseDown += new ESRI.ArcGIS.Controls.IMapControlEvents2_Ax_OnMouseDownEventHandler(this.axMapControl1_OnMouseDown);
             this.axMapControl1.OnExtentUpdated += new ESRI.ArcGIS.Controls.IMapControlEvents2_Ax_OnExtentUpdatedEventHandler(this.axMapControl1_OnExtentUpdated);
@@ -104,10 +100,9 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.menuAttributeQuery,
-            this.infrQueryToolStripMenuItem,
-            this.menuNetwork,
             this.PicViewToolStripMenuItem,
-            this.信息查询2ToolStripMenuItem,
+            this.aPP下载ToolStripMenuItem,
+            this.微博分享ToolStripMenuItem,
             this.天气查询ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -153,20 +148,6 @@
             this.menuAttributeQuery.Text = "属性查询";
             this.menuAttributeQuery.Click += new System.EventHandler(this.menuAttributeQuery_Click);
             // 
-            // infrQueryToolStripMenuItem
-            // 
-            this.infrQueryToolStripMenuItem.Name = "infrQueryToolStripMenuItem";
-            this.infrQueryToolStripMenuItem.Size = new System.Drawing.Size(68, 21);
-            this.infrQueryToolStripMenuItem.Text = "信息查询";
-            this.infrQueryToolStripMenuItem.Click += new System.EventHandler(this.infrQueryToolStripMenuItem_Click);
-            // 
-            // menuNetwork
-            // 
-            this.menuNetwork.Name = "menuNetwork";
-            this.menuNetwork.Size = new System.Drawing.Size(68, 21);
-            this.menuNetwork.Text = "路径查询";
-            this.menuNetwork.Click += new System.EventHandler(this.menuNetwork_Click);
-            // 
             // PicViewToolStripMenuItem
             // 
             this.PicViewToolStripMenuItem.Name = "PicViewToolStripMenuItem";
@@ -174,12 +155,19 @@
             this.PicViewToolStripMenuItem.Text = "校园图景";
             this.PicViewToolStripMenuItem.Click += new System.EventHandler(this.PicViewToolStripMenuItem_Click);
             // 
-            // 信息查询2ToolStripMenuItem
+            // aPP下载ToolStripMenuItem
             // 
-            this.信息查询2ToolStripMenuItem.Name = "信息查询2ToolStripMenuItem";
-            this.信息查询2ToolStripMenuItem.Size = new System.Drawing.Size(85, 21);
-            this.信息查询2ToolStripMenuItem.Text = "信息查询2.0";
-            this.信息查询2ToolStripMenuItem.Click += new System.EventHandler(this.信息查询2ToolStripMenuItem_Click);
+            this.aPP下载ToolStripMenuItem.Name = "aPP下载ToolStripMenuItem";
+            this.aPP下载ToolStripMenuItem.Size = new System.Drawing.Size(66, 21);
+            this.aPP下载ToolStripMenuItem.Text = "APP下载";
+            this.aPP下载ToolStripMenuItem.Click += new System.EventHandler(this.aPP下载ToolStripMenuItem_Click);
+            // 
+            // 微博分享ToolStripMenuItem
+            // 
+            this.微博分享ToolStripMenuItem.Name = "微博分享ToolStripMenuItem";
+            this.微博分享ToolStripMenuItem.Size = new System.Drawing.Size(68, 21);
+            this.微博分享ToolStripMenuItem.Text = "微博分享";
+            this.微博分享ToolStripMenuItem.Click += new System.EventHandler(this.微博分享ToolStripMenuItem_Click);
             // 
             // 天气查询ToolStripMenuItem
             // 
@@ -219,60 +207,29 @@
             this.删除ToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.删除ToolStripMenuItem.Text = "删除";
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(306, 460);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 12);
-            this.label1.TabIndex = 6;
-            this.label1.Text = "快捷查询";
-            // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(426, 481);
+            this.txtName.Location = new System.Drawing.Point(380, 472);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(90, 21);
             this.txtName.TabIndex = 7;
             this.txtName.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtName_KeyUp);
-            // 
-            // btnPointQuery
-            // 
-            this.btnPointQuery.Location = new System.Drawing.Point(426, 509);
-            this.btnPointQuery.Name = "btnPointQuery";
-            this.btnPointQuery.Size = new System.Drawing.Size(70, 22);
-            this.btnPointQuery.TabIndex = 9;
-            this.btnPointQuery.Text = "道路查询";
-            this.btnPointQuery.UseVisualStyleBackColor = true;
-            this.btnPointQuery.Click += new System.EventHandler(this.btnPointQuery_Click);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(306, 484);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(77, 12);
-            this.label2.TabIndex = 10;
-            this.label2.Text = "请输入宿舍名";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(826, 543);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.txtName);
             this.Controls.Add(this.axLicenseControl1);
             this.Controls.Add(this.axMapControl2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnPointQuery);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.axTOCControl1);
             this.Controls.Add(this.axMapControl1);
             this.Controls.Add(this.axToolbarControl1);
+            this.Controls.Add(this.txtName);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "武大赏樱辅助系统";
+            this.Text = "SakuraWHU游客信息查询系统";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.axLicenseControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.axToolbarControl1)).EndInit();
@@ -303,14 +260,10 @@
         private System.Windows.Forms.ToolStripMenuItem MenuOpenAttr;
         private System.Windows.Forms.ToolStripMenuItem 删除ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem menuAttributeQuery;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtName;
-        private System.Windows.Forms.Button btnPointQuery;
-        private System.Windows.Forms.ToolStripMenuItem infrQueryToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem menuNetwork;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ToolStripMenuItem PicViewToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 信息查询2ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem aPP下载ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 微博分享ToolStripMenuItem;
+        private System.Windows.Forms.TextBox txtName;
         private System.Windows.Forms.ToolStripMenuItem 天气查询ToolStripMenuItem;
     }
 }
